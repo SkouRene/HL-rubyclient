@@ -1,8 +1,11 @@
-# HL::Rubyclient
+# HL-rubyclient
+Ruby client for heyloyalty api.
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/HL/rubyclient`. To experiment with that code, run `bin/console` for an interactive prompt.
+The client also has methods for using reseller endpoints, [how to become a reseller](http://heyloyalty.com/partner)
+Accounts
+Account users
 
-TODO: Delete this and the text above, and describe your gem
+This client contains all methods for interacting with Heyloyalty api.
 
 ## Installation
 
